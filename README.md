@@ -5,4 +5,4 @@ A demo project that uses Python and NASA data to find meteor landing sites
 
 This project needs Python3 and requests package
 
-`python3 find_meteors.py`
+`python3 meteors/find_meteors.py`
